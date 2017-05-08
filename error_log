@@ -1,0 +1,227 @@
+[03-Jun-2016 02:10:33 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home3/sharifmehedi/public_html/project_dev/system/core/compat/mbstring.php' (include_path='.:/opt/php56/lib/php') in /home3/sharifmehedi/public_html/project_dev/system/core/CodeIgniter.php on line 284
+[03-Jun-2016 09:06:06 America/Chicago] PHP Fatal error:  Call to a member function get_lists() on null in /home3/sharifmehedi/public_html/project_dev/application/controllers/Welcome.php on line 61
+[03-Jun-2016 09:06:08 America/Chicago] PHP Fatal error:  Call to a member function get_lists() on null in /home3/sharifmehedi/public_html/project_dev/application/controllers/Welcome.php on line 61
+[03-Jun-2016 09:06:08 America/Chicago] PHP Fatal error:  Call to a member function get_lists() on null in /home3/sharifmehedi/public_html/project_dev/application/controllers/Welcome.php on line 61
+[03-Jun-2016 09:06:08 America/Chicago] PHP Fatal error:  Call to a member function get_lists() on null in /home3/sharifmehedi/public_html/project_dev/application/controllers/Welcome.php on line 61
+[03-Jun-2016 09:06:08 America/Chicago] PHP Fatal error:  Call to a member function get_lists() on null in /home3/sharifmehedi/public_html/project_dev/application/controllers/Welcome.php on line 61
+[03-Jun-2016 09:06:09 America/Chicago] PHP Fatal error:  Call to a member function get_lists() on null in /home3/sharifmehedi/public_html/project_dev/application/controllers/Welcome.php on line 61
+[03-Jun-2016 09:08:59 America/Chicago] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home3/sharifmehedi/public_html/project_dev/application/models/Vector.php on line 21
+[03-Jun-2016 09:08:59 America/Chicago] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home3/sharifmehedi/public_html/project_dev/application/models/Vector.php on line 21
+[03-Jun-2016 09:09:00 America/Chicago] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home3/sharifmehedi/public_html/project_dev/application/models/Vector.php on line 21
+[04-Jun-2016 01:09:57 America/Chicago] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 950082 bytes) in /home3/sharifmehedi/public_html/project_dev/system/database/DB_query_builder.php on line 1523
+[04-Jun-2016 01:13:41 America/Chicago] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 950789 bytes) in /home3/sharifmehedi/public_html/project_dev/system/database/DB_query_builder.php on line 1523
+[04-Jun-2016 04:15:07 America/Chicago] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::row_array() in /home3/sharifmehedi/public_html/project_dev/application/controllers/Welcome.php on line 30
+[04-Jun-2016 04:57:44 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home3/sharifmehedi/public_html/project_dev/application/controllers/Welcome.php on line 24
+[05-Jun-2016 07:28:30 America/Chicago] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home3/sharifmehedi/public_html/project_dev/application/controllers/Welcome.php on line 40
+[05-Jun-2016 07:28:32 America/Chicago] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home3/sharifmehedi/public_html/project_dev/application/controllers/Welcome.php on line 40
+[06-Jun-2016 02:54:48 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home3/sharifmehedi/public_html/project_dev/application/models/Vector.php on line 21
+[06-Jun-2016 02:54:50 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home3/sharifmehedi/public_html/project_dev/application/models/Vector.php on line 21
+[09-Jun-2016 04:20:31 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[09-Jun-2016 06:23:47 America/Chicago] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::limit() in /home3/sharifmehedi/public_html/project_dev/application/models/Vector.php on line 25
+[09-Jun-2016 06:23:47 America/Chicago] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::limit() in /home3/sharifmehedi/public_html/project_dev/application/models/Vector.php on line 25
+[09-Jun-2016 06:23:47 America/Chicago] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::limit() in /home3/sharifmehedi/public_html/project_dev/application/models/Vector.php on line 25
+[09-Jun-2016 06:24:20 America/Chicago] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::limit() in /home3/sharifmehedi/public_html/project_dev/application/models/Vector.php on line 25
+[09-Jun-2016 06:24:20 America/Chicago] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::limit() in /home3/sharifmehedi/public_html/project_dev/application/models/Vector.php on line 25
+[09-Jun-2016 06:24:21 America/Chicago] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::limit() in /home3/sharifmehedi/public_html/project_dev/application/models/Vector.php on line 25
+[09-Jun-2016 06:47:10 America/Chicago] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_array() in /home3/sharifmehedi/public_html/project_dev/application/models/Vector.php on line 124
+[09-Jun-2016 06:48:09 America/Chicago] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_array() in /home3/sharifmehedi/public_html/project_dev/application/models/Vector.php on line 124
+[09-Jun-2016 06:50:36 America/Chicago] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_array() in /home3/sharifmehedi/public_html/project_dev/application/models/Vector.php on line 125
+[09-Jun-2016 06:51:01 America/Chicago] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_array() in /home3/sharifmehedi/public_html/project_dev/application/models/Vector.php on line 124
+[09-Jun-2016 06:55:51 America/Chicago] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_array() in /home3/sharifmehedi/public_html/project_dev/application/models/Vector.php on line 124
+[09-Jun-2016 07:54:44 America/Chicago] PHP Fatal error:  Cannot redeclare class Welcome in /home3/sharifmehedi/public_html/project_dev/application/views/content.php on line 174
+[19-Jun-2016 08:56:43 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/sharifmehedi/public_html/project_dev/application/views/content.php on line 379
+[19-Jun-2016 09:18:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'vectors' (T_STRING), expecting ',' or ';' in /home3/sharifmehedi/public_html/project_dev/application/controllers/Welcome.php on line 44
+[01-Jul-2016 06:28:05 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[01-Jul-2016 06:28:05 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[02-Jul-2016 01:47:18 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[02-Jul-2016 01:47:18 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[02-Jul-2016 01:47:23 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[02-Jul-2016 01:47:23 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[02-Jul-2016 01:47:27 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[02-Jul-2016 01:47:27 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[02-Jul-2016 01:47:37 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[02-Jul-2016 01:47:37 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[02-Jul-2016 01:47:39 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[02-Jul-2016 01:47:39 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[02-Jul-2016 01:47:40 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[02-Jul-2016 01:47:40 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[02-Jul-2016 01:47:43 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[02-Jul-2016 01:47:43 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[02-Jul-2016 01:47:44 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[02-Jul-2016 01:47:44 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[02-Jul-2016 01:47:46 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[02-Jul-2016 01:47:46 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[02-Jul-2016 01:48:13 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[02-Jul-2016 01:48:13 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[02-Jul-2016 01:48:39 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[02-Jul-2016 01:48:39 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[02-Jul-2016 01:48:51 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[02-Jul-2016 01:48:51 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[02-Jul-2016 01:49:16 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[02-Jul-2016 01:49:16 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[02-Jul-2016 01:49:30 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[02-Jul-2016 01:49:30 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[02-Jul-2016 01:49:31 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[02-Jul-2016 01:49:31 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[02-Jul-2016 01:50:53 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[02-Jul-2016 01:50:53 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[02-Jul-2016 01:51:58 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[02-Jul-2016 01:51:58 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[04-Jul-2016 09:14:31 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home3/sharifmehedi/public_html/project_dev/application/models/Vector.php on line 265
+[04-Jul-2016 09:14:32 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home3/sharifmehedi/public_html/project_dev/application/models/Vector.php on line 265
+[04-Jul-2016 09:14:34 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home3/sharifmehedi/public_html/project_dev/application/models/Vector.php on line 265
+[04-Jul-2016 10:03:23 America/Chicago] PHP Parse error:  syntax error, unexpected 'list_vectors' (T_STRING) in /home3/sharifmehedi/public_html/project_dev/application/models/Vector.php on line 274
+[04-Jul-2016 10:30:39 America/Chicago] PHP Parse error:  syntax error, unexpected ''.$i.'' (T_CONSTANT_ENCAPSED_STRING) in /home3/sharifmehedi/public_html/project_dev/application/models/Vector.php on line 296
+[04-Jul-2016 10:30:40 America/Chicago] PHP Parse error:  syntax error, unexpected ''.$i.'' (T_CONSTANT_ENCAPSED_STRING) in /home3/sharifmehedi/public_html/project_dev/application/models/Vector.php on line 296
+[04-Jul-2016 10:30:41 America/Chicago] PHP Parse error:  syntax error, unexpected ''.$i.'' (T_CONSTANT_ENCAPSED_STRING) in /home3/sharifmehedi/public_html/project_dev/application/models/Vector.php on line 296
+[09-Jul-2016 02:08:51 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home3/sharifmehedi/public_html/project_dev/application/controllers/Welcome.php on line 146
+[09-Jul-2016 02:08:52 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home3/sharifmehedi/public_html/project_dev/application/controllers/Welcome.php on line 146
+[09-Jul-2016 02:09:24 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home3/sharifmehedi/public_html/project_dev/application/controllers/Welcome.php on line 145
+[09-Jul-2016 02:10:09 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home3/sharifmehedi/public_html/project_dev/application/controllers/Welcome.php on line 149
+[15-Jul-2016 09:40:10 America/Chicago] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE), expecting ',' or ';' in /home3/sharifmehedi/public_html/project_dev/application/views/content.php on line 55
+[15-Jul-2016 09:40:12 America/Chicago] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE), expecting ',' or ';' in /home3/sharifmehedi/public_html/project_dev/application/views/content.php on line 55
+[21-Jul-2016 06:07:36 America/Chicago] PHP Parse error:  syntax error, unexpected ''hsa-<span>, "<span>hsa-", $te' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home3/sharifmehedi/public_html/project_dev/application/models/Vector.php on line 399
